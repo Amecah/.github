@@ -4,7 +4,7 @@
 
 Representamos, defendemos y protegemos los intereses de la Red de Distribuidores Honda y Acura en México desde 1996.
 
-Esta organización aloja las herramientas internas que desarrollamos para nuestros asociados. La mayoría de nuestros repositorios son privados.
+Esta organización aloja las herramientas internas que desarrollamos para nuestros asociados. Nuestros repositorios son privados.
 
 ## Contacto
 
